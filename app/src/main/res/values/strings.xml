@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="add_person">Add Person</string>
+    <string name="addNameActivity">AddNameActivity</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="save">Save</string>
+</resources>

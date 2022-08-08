@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="64dp">
+    <TextView
+        android:id="@+id/item_textview1"
+        android:layout_width="32dp"
+        android:gravity="center"
+        android:layout_height="match_parent"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:id="@+id/item_textview2"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/purple_500"/>
+</FrameLayout>
